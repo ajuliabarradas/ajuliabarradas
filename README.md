@@ -30,13 +30,4 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="left">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ajuliabarradas&show_icons=true&hide_title=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajuliabarradas&layout=compact" />
-</p>
-
----
-
-✨ Construindo meu portfólio em Ciência de Dados e explorando conexões entre tecnologia e ciências biológicas.
+✨ Construindo meu portfólio em Ciência de Dados e explorando conexões entre **tecnologia e ciências biológicas**.
