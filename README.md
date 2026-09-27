@@ -1,7 +1,44 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=800020&height=120&section=header"/>
+```md
+# Oi! Eu sou a Julia Barradas 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=800020&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Júlia+Barradas;I'm+20+years+old;I'm+from+Brazil;Data+Scientist;Be+Welcome!+:%29)](https://git.io/typing-svg)
+🎓 Graduanda em **Ciências Biológicas**  
+🔬 Iniciação Científica em **Genética e Biologia Molecular**  
+📊 Estudante de **Ciência de Dados pela EBAC**  
+🧬 Interesse em **Dados aplicados à Biologia, Saúde e Pesquisa**
 
-### Main skills:
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp; 
-![SQL](https://img.shields.io/badge/-SQL-0D1117?style=for-the-badge&logo=sql&labelColor=0D1117)&nbsp;
+---
+
+### 💻 Tecnologias
+
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="40" />
+</div>
+
+---
+
+### 📚 Atualmente aprendendo
+
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" />
+</div>
+
+**Pandas • NumPy • SQL • Visualização de Dados**
+
+---
+
+### 📊 GitHub Stats
+
+<div>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ajuliabarradas&show_icons=true&hide_title=true" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajuliabarradas&layout=compact" />
+</div>
+
+---
+
+✨ Construindo meu portfólio em Ciência de Dados e explorando conexões entre **tecnologia e ciências biológicas**.
+```
